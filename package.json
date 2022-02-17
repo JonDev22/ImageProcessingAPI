@@ -1,0 +1,19 @@
+{
+  "name": "imageprocessingapi",
+  "version": "1.0.0",
+  "description": "Udacity project to create an image processing api",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JonDev22/ImageProcessingAPI.git"
+  },
+  "author": "JonnyDev",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JonDev22/ImageProcessingAPI/issues"
+  },
+  "homepage": "https://github.com/JonDev22/ImageProcessingAPI#readme"
+}
