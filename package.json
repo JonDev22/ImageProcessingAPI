@@ -4,8 +4,8 @@
   "description": "Udacity project to create an image processing api",
   "main": "index.js",
   "scripts": {
-    "lint": "eslint 'index.js'",
-    "prettier": "prettier --config .prettierrc 'src/**/*.js' --write",
+    "lint": "eslint 'src/index.ts'",
+    "prettier": "prettier --config .prettierrc 'src/**/*.ts' --write",
     "start": "nodemon src/index.ts",
     "build": "npx tsc",
     "jasmine": "jasmine",
@@ -38,6 +38,7 @@
     "express": "^4.17.3",
     "jasmine": "^4.0.2",
     "jasmine-spec-reporter": "^7.0.0",
+    "sharp": "^0.30.1",
     "supertest": "^6.2.2"
   }
 }
